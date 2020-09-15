@@ -7,4 +7,9 @@
 #重写tp5的权限控制系统 <br/>
 #多图上传增加允许图片进行拖动排序 <br/>
 #增加后台网络日志下载功能<br/>
+<img src ="https://github.com/hua01234567899/web_example/blob/master/images/1.png">
+<img src ="https://github.com/hua01234567899/web_example/blob/master/images/2.png">
+<img src ="https://github.com/hua01234567899/web_example/blob/master/images/3.png">
+<img src ="https://github.com/hua01234567899/web_example/blob/master/images/4.png">
+
 
