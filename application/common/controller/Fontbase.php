@@ -166,7 +166,7 @@
 			$randstr = (string)$slide_code['randstr'];
 			$ip = $this->request->ip();
 			try {
-				$cred = new Credential("AKIDOYR3PXn0MUAbmQfvmMetsgCUXJp5eFyR", "LQEDwXrviDvNcZFenhLRHq9BP7bqLaXC");
+				$cred = new Credential("", "");
 				$httpProfile = new HttpProfile();
 				$httpProfile->setEndpoint("captcha.tencentcloudapi.com");
 				$clientProfile = new ClientProfile();
